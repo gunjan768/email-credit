@@ -4,8 +4,8 @@ const localtunnel = require('localtunnel');
 {
     const tunnel = await localtunnel(
     { 
-        port: 5000,
-        subdomain: "gunjan768"
+        port: ,
+        subdomain: ""
     });
 
     console.log(tunnel);
