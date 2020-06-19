@@ -1,0 +1,3 @@
+For Google Authentication I used project ---> firebase-chat-app and used it's OAuth 2.0 Client IDs (client and secret key). App name --> gunjan768-email
+
+*SendGrid is not working. It will be fixed soon else everything is alright* 
